@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Magdalena Natalia.
+- 👋 Hi, I’m Magda.
 - 👀 I’m interested in web development, electronics, science finction, fantasy, psychology and healthy lifestyle science. I also love playing chess, lifting weights and riding a bike.
 - 🌱 I’m currently learning Python for web development but I'm also open to learn new languages and other programming paths.
 - 💞️ I’m looking to collaborate on web development / software development projects that are either open-source or for charities / common good.
